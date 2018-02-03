@@ -1,2 +1,3 @@
 # hello-world
 The repository for hello-world project.
+Developers naver die , they just go offline...
